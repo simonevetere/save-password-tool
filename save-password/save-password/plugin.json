@@ -1,0 +1,10 @@
+{
+    "name": "Save Cripted Password",
+    "version": "0.0.1",
+    "description": "A tool that is used by the user to save and get the password, password a cripted",
+    "author_name": "Simone Vetere",
+    "author_url": "https://vetere.tech",
+    "plugin_url": "https://github.com/simonevetere/save-password-tool",
+    "tags": "productivity",
+    "thumb": "none"
+}
